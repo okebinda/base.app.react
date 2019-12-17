@@ -1,0 +1,73 @@
+{
+  "en": {
+    "translation": {
+      "app_name": "App Name",
+
+      "login_screen_button_register": "Create New Account",
+
+      "login_form_input_username": "Username",
+      "login_form_input_password": "Password",
+      "login_form_button_submit": "Login",
+      "login_form_button_forgot_password": "Forgot password?",
+
+      "password_reset_screen_instructions": "Enter the email address associated with your account and we will send you an email with instructions for resetting your password.",
+
+      "password_reset_request_form_input_email_address": "Email Address",
+      "password_reset_request_form_button_submit": "Submit",
+      "password_reset_request_form_button_have_code": "Already have a code?",
+      "password_reset_request_form_message_success": "Check your email inbox.",
+      "password_reset_request_form_message_failure": "Could not complete request.",
+
+      "password_reset_form_input_email_address": "Email Address",
+      "password_reset_form_input_code": "Reset Code",
+      "password_reset_form_input_password1": "New Password",
+      "password_reset_form_input_password2": "Re-enter Password",
+      "password_reset_form_button_submit": "Submit",
+      "password_reset_form_button_need_code": "Need a new code?",
+      "password_reset_form_message_success": "Password reset.",
+      "password_reset_form_message_failure": "Could not update password.",
+
+      "register_screen_form1_title": "Step 1 of 2",
+      "register_screen_form2_title": "Step 2 of 2",
+
+      "register_form1_input_username": "Username",
+      "register_form1_input_email_address": "Email Address",
+      "register_form1_input_password1": "Password",
+      "register_form1_input_password2": "Re-enter Password",
+      "register_form1_input_tos": "I Agree to the Terms of Service",
+      "register_form1_button_submit": "Submit",
+      "register_form1_button_tos": "Read the Terms of Service",
+      "register_form1_message_failure": "Registration error.",
+
+      "register_form2_input_first_name": "First Name",
+      "register_form2_input_last_name": "Last Name",
+      "register_form2_button_submit": "Submit",
+      "register_form2_message_failure": "Registration error.",
+
+      "user_account_form_input_username": "Username",
+      "user_account_form_input_email_address": "Email Address",
+      "user_account_form_input_first_name": "First Name",
+      "user_account_form_input_last_name": "Last Name",
+      "user_account_form_button_submit": "Submit",
+      "user_account_form_message_success": "Account updated.",
+      "user_account_form_message_failure": "Could not update account.",
+
+      "password_form_input_previous_password": "Current Password",
+      "password_form_input_password1": "New Password",
+      "password_form_input_password2": "Re-enter New Password",
+      "password_form_button_submit": "Submit",
+      "password_form_message_success": "Password updated.",
+      "password_form_message_failure": "Could not update password.",
+
+      "confirm_alert_logout_title": "Confirm Logout",
+      "confirm_alert_logout_body": "Are you sure you want to logout?",
+
+      "confirm_alert_yes": "Yes",
+      "confirm_alert_cancel": "Cancel",
+
+      "menu_item_account_settings": "Account Settings",
+      "menu_item_update_password": "Update Password",
+      "menu_item_logout": "Logout"
+    }
+  }
+}
