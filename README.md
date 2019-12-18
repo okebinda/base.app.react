@@ -94,9 +94,9 @@ There are currently no unit tests.
 
 ## Screenshots
 
-![Login Screen](/data/images/screenshots/ios/LoginScreen_1242x2688.png)
-![Register Screen](/data/images/screenshots/ios/RegisterScreen_1242x2688.png)
-![Drawer Navigation](/data/images/screenshots/ios/DrawerNavigation_1242x2688.png)
+![Login Screen](/data/images/screenshots/ios/LoginScreen_1242x2688.png | width=200)
+![Register Screen](/data/images/screenshots/ios/RegisterScreen_1242x2688.png | width=200)
+![Drawer Navigation](/data/images/screenshots/ios/DrawerNavigation_1242x2688.png | width=200)
 
 ## Repository Directory Structure
 
