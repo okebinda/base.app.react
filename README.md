@@ -94,10 +94,9 @@ There are currently no unit tests.
 
 ## Screenshots
 
-<img src="https://github.com/okebinda/base.app.react/blob/master/data/images/screenshots/ios/LoginScreen_1242x2688.png" width="200">
-![Login Screen](/data/images/screenshots/ios/LoginScreen_1242x2688.png)
-![Register Screen](/data/images/screenshots/ios/RegisterScreen_1242x2688.png)
-![Drawer Navigation](/data/images/screenshots/ios/DrawerNavigation_1242x2688.png)
+<img src="https://github.com/okebinda/base.app.react/blob/master/data/images/screenshots/ios/LoginScreen_1242x2688.png" width="300">
+<img src="https://github.com/okebinda/base.app.react/blob/master/data/images/screenshots/ios/RegisterScreen_1242x2688.png" width="300">
+<img src="https://github.com/okebinda/base.app.react/blob/master/data/images/screenshots/ios/DrawerNavigation_1242x2688.png" width="300">
 
 ## Repository Directory Structure
 
