@@ -1,7 +1,7 @@
 import {connect} from 'react-redux';
 import {List} from 'immutable';
 
-import {requestPasswordResetCode, sessionFormDestroy} from '../../../../../state/actions';
+import {requestPasswordResetCode, passwordResetCodeFormDestroy} from '../../../../../state/actions';
 import PasswordResetRequestForm from '../components/PasswordResetRequestForm';
 
 const inputs = List([

@@ -20,11 +20,10 @@ class UpdatePasswordScreen extends Component {
         <NavEvents />
         <View style={{flex: 1}}>
           <KeyboardAwareScrollView
-            contentContainerStyle={{flex:1}}
             innerRef={ref => {this.scroll = ref}}
             keyboardShouldPersistTaps="handled"
           >
-            <View style={{margin: 40}}>
+            <View style={{flex:1, margin: 40}}>
               <UpdatePasswordForm />
             </View>
           </KeyboardAwareScrollView>
